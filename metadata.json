@@ -1,0 +1,6 @@
+{
+  "name": "ChatPulse",
+  "description": "تطبيق مراسلة ومكالمات فورية متكامل (شات، رسائل صوتية، صور، غرف ومكالمات صوت وفيديو عبر الإنترنت)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
